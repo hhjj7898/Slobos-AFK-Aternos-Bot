@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "baseturtle3-cYv1.aternos.me:12626",
+    "port": 12626,
     "version": "",
     "try-creative": false
   },
